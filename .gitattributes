@@ -1,0 +1,2 @@
+data/weather.zip filter=lfs diff=lfs merge=lfs -text
+data/kaggle.zip filter=lfs diff=lfs merge=lfs -text
